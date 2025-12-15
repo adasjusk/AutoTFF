@@ -1,4 +1,4 @@
-[![GitHub release](https://flat.badgen.net/github/release/adasjusk/AutoTFF)](https://github.com/adasjusk/AutoTFF/)
+[![GitHub release](https://flat.badgen.net/github/release/adasjusk/AutoTFF)](https://github.com/adasjusk/AutoTFF)
 [![LabAPI Version](https://flat.badgen.net/static/LabAPI%20Version/v1.1.4)](https://github.com/northwood-studios/LabAPI)
 [![License](https://flat.badgen.net/github/license/adasjusk/AutoTFF)](https://github.com/adasjusk/AutoTFF/main/LICENSE)
 # About AutoTFF
