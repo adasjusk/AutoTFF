@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Orange")]
 [assembly: AssemblyProduct("AutoTFF")]
-[assembly: AssemblyCopyright("Copyright © adasjusk 2025")]
+[assembly: AssemblyCopyright("Copyright © adasjusk 2026")]
 [assembly: AssemblyTrademark("OrangStudio")]
 [assembly: AssemblyCulture("en-US")]
 [assembly: ComVisible(false)]
